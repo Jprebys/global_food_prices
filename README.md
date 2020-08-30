@@ -18,3 +18,7 @@ I also found [this dataset](https://data.humdata.org/dataset/wfp-food-prices) fr
 
 
 Seems cool
+
+keep an eye here for additional data:
+
+https://hackernoon.com/machine-learning-food-datasets-collection-db21e38ea225
