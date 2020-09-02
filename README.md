@@ -1,3 +1,5 @@
+![](src/figures/wheat_header.jpg)
+
 # Global Food Prices
 
 by Jacob Prebys
