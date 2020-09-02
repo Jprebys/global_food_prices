@@ -17,8 +17,16 @@ I also found [this dataset](https://data.humdata.org/dataset/wfp-food-prices) fr
 > This dataset contains Global Food Prices data from the World Food Programme covering foods such as maize, rice, beans, fish, and sugar for 76 countries and some 1,500 markets. It is updated weekly but contains to a large extent monthly data. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter.
 
 
-Seems cool
+# Data Exploration
 
-keep an eye here for additional data:
+First I'll look into the FAOSTAT dataset. At first glance, I have prices in USD for various years in many different countries. There are entries from 1991 to 2018, with roughly 3400-6000 price entries for each year. First I'd like to look at a few select food types and their average prices over time.
+
+![](src/figures/prices_over_time.png)
+
+So I can see a general upward trend with a couple interesting features:
+
+- A slight price dip in the early 2000s
+- A high point for almost all food prices in the early 2010s, corresponding with the [2010-2012 world food price crisis](https://en.wikipedia.org/wiki/2010%E2%80%932012_world_food_price_crisis)
+
 
 https://hackernoon.com/machine-learning-food-datasets-collection-db21e38ea225
