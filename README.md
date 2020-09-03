@@ -31,4 +31,8 @@ So I can see a general upward trend with a couple interesting features:
 - A high point for almost all food prices in the early 2010s, corresponding with the [2010-2012 world food price crisis](https://en.wikipedia.org/wiki/2010%E2%80%932012_world_food_price_crisis)
 
 
+
+
+
+
 https://hackernoon.com/machine-learning-food-datasets-collection-db21e38ea225
